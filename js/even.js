@@ -1,5 +1,6 @@
 const even = (no) => {
-  var a = 10;
+  let name = 'harish kumar';
+  console.log(name)
   return no > 20;
 };
 
